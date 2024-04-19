@@ -14,10 +14,12 @@ I also do my best to pass along all the skills and life lessons I have learned o
  - I volunteered as a mentor at Turing, helping new students get a headstart in the tech industry.
  - I currently volunteer with a Youth organization called Sea Cadets. Their mission statement is in part "...to build leaders of character by imbuing in our cadets the highest ideals of honor, respect, commitment, and service."
 
+### And for some of those fun prompts by GitHub...
 - 🔭 I’m currently working on finding a new job, but I'm also using this opportunity to continue development on On-schedule, mostly to keep my skills as sharp as possible.
-🌱 I’m currently learning React and CSS, mostly. But really, anything I can get my hands on. I've done a little backend work in Go (and would love to do more), firmware with C#, mobile development, and Windows applications. It's all exciting, interesting, and mentally engaging. 
+- 🌱 I’m currently learning React and CSS, mostly. But really, anything I can get my hands on. I've done a little backend work in Go (and would love to do more), firmware with C#, mobile development, and Windows applications. It's all exciting, interesting, and mentally engaging. 
 - 💬 Ask me about anything you like...
 - 📫 How to reach me: sorry I don't give out my personal information, but you can drop me a message on [LinkedIn](https://www.linkedin.com/in/douglas-welchons/)
+- ⚡ Fun fact: I was buried alive once as part of a Discovery Channel production so that they could dig me up on camera... and they didn't even leave it in the final cut.
 
 <!--
 **DougWelchons/DougWelchons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +27,7 @@ I also do my best to pass along all the skills and life lessons I have learned o
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on finding a new job, but I'm also using this opportunity to continue development on On-schedule, mostly to keep my skills as sharp as possible.
-🌱 I’m currently learning React and CSS, mostly. But really, anything I can get my hands on. I've done a little backend work in Go (and would love to do more), firmware with C#, mobile development, and Windows applications. It's all exciting, interesting, and mentally engaging. 
+- 🌱 I’m currently learning React and CSS, mostly. But really, anything I can get my hands on. I've done a little backend work in Go (and would love to do more), firmware with C#, mobile development, and Windows applications. It's all exciting, interesting, and mentally engaging. 
 - 💬 Ask me about anything you like...
 - 📫 How to reach me: drop me a message on [LinkedIn](https://www.linkedin.com/in/douglas-welchons/) 
 - 😄 Pronouns: ...
